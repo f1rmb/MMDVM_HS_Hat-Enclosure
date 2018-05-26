@@ -1,0 +1,7 @@
+*~
+*.bak
+*-bak
+*.diff
+*.save-failed
+*.save
+*.fcstd1
