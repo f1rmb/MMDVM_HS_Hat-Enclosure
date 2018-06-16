@@ -46,6 +46,7 @@ I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archi
  4 | M2 hex nuts
  4 | M3x30mm socket headed CHC screws
  4 | M3 hex nuts
+ 1 | light diffuser (optional) (file: Parts/Light-Diffuser-PCB-v1.7.stl)
 
  <br><br>
  __For SLIM assembly__
@@ -60,6 +61,7 @@ I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archi
  4 | M2 hex nuts
  4 | M3x16mm socket headed CHC screws
  4 | M3 hex nuts
+ 1 | light diffuser (optional) (file: Parts/Light-Diffuser-PCB-v1.7.stl)
  
  ***Some specific assembly informations will be added later about this SLIM version.***
 
