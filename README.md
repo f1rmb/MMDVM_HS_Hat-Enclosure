@@ -21,8 +21,7 @@ I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archi
 ![SLIM](https://github.com/f1rmb/MMDVM_HS_Hat-Enclosure/blob/master/Assembly-All-SLIM.png)
 
  <br><br>
-## Full height enclosures
-All 3 major PCB versions are supported:
+## All 3 major PCB versions are supported:
 
 * 1,2
   * Known as "chinese* jumbospot
