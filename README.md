@@ -5,12 +5,12 @@ Based on the enclosure shape from *Toufik*, **F0DEI**, here are some personnal v
 
 **FreeCad** (https://www.freecadweb.org/) files are available (not for all variations, since the only differences are antenna and screen cutouts).
 
+I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archive/ubuntu/freecad-daily), so using the latest stable version may not works.
+
 All STL files are also provided, just open them in your favorite slicer, then 3D print'em.
 
 __WARNING__
 You should use supports for top and bottom parts.
-
-I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archive/ubuntu/freecad-daily), so using the latest stable version may not works.
 
  <br><br>
 ## Full height enclosures
