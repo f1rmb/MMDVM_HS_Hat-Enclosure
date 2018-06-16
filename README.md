@@ -3,7 +3,7 @@ Enclosures for MMDVM_HS hats (various board revisions)
 
 Based on the enclosure shape from *Toufik*, **F0DEI**, here are some personnal variations, built from scratch.
 
-**FreeCad** (https://www.freecadweb.org/) files are availables (not for all variations, since the only difference is antenna and screen cutouts).
+**FreeCad** (https://www.freecadweb.org/) files are available (not for all variations, since the only differences are antenna and screen cutouts).
 
 All STL files are also provided, just open them in your favorite slicer, then 3D print'em.
 
