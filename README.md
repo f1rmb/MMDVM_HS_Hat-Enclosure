@@ -23,9 +23,9 @@ I'm using the daily snapshots (https://launchpad.net/~freecad-maintainers/+archi
  <br><br>
 ## All 3 major PCB versions are supported:
 
-* 1,2
-  * Known as "chinese* jumbospot
-* 1,6
+* 1.2
+  * Also known as *chinese* jumbospot
+* 1.6
   * latest official version from DB9MAT and DF2ET (https://github.com/mathisschmieder/MMDVM_HS_Hat)
 * 1.7
   * my slightly modified version, made out of a 1.6 fork (https://github.com/f1rmb/MMDVM_HS_Hat)
