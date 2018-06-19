@@ -42,9 +42,9 @@ You should use supports for top and bottom parts.
  1 | top cover (choose between blind, antenna and screen, in PCB-\<version\> directory, accordingly), non SLIM.
  4 | M2 1.2mm 3D printed washers (file: Parts/Washer-M2x1.2mm.stl)
  4 | M2 11.35mm 3D printed spacers (file: Parts/Spacer-M2x11.35mm.stl)
- 4 | M2x30mm socket headed CHC screws
+ 4 | M2x20mm socket headed CHC screws
  4 | M2 hex nuts
- 4 | M3x30mm socket headed CHC screws
+ 4 | M3x20mm socket headed CHC screws
  4 | M3 hex nuts
  1 | light diffuser (optional) (file: Parts/Light-Diffuser-PCB-v1.7.stl)
 
@@ -57,9 +57,9 @@ You should use supports for top and bottom parts.
  1 | top cover (choose between blind, antenna and screen, in PCB-\<version\> directory, accordingly), -SLIM.
  4 | M2 1.2mm 3D printed washers (file: Parts/Washer-M2x1.2mm.stl)
  4 | M2 5mm 3D printed spacers (file: Parts/Spacer-M2x5mm.stl)
- 4 | M2x16mm socket headed CHC screws
+ 4 | M2x12mm socket headed CHC screws
  4 | M2 hex nuts
- 4 | M3x16mm socket headed CHC screws
+ 4 | M3x12mm socket headed CHC screws
  4 | M3 hex nuts
  1 | light diffuser (optional) (file: Parts/Light-Diffuser-PCB-v1.7.stl)
  
